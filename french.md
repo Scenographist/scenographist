@@ -1,8 +1,8 @@
 
 ---
-title: Français/
+title: Français
 layout: home
-permalink: fr/
+permalink: /fr
 ---
 
 # Genesis
