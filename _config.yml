@@ -1,10 +1,18 @@
 # Example Site settings
 
-#google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-35910281-31
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - chinese.md
+  - spanish.md
+  - arabic
+  - portuguese.md
+  - french.md
+  - russian.md
+  - japanese.md
+  - german.md
+      
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
