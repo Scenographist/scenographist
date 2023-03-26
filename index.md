@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Genesis
 
 In the year 2135, humanity had successfully established colonies on both the Moon and Mars, and interplanetary travel had become a routine part of life. As humankind continued to push the boundaries of space exploration, Venus became the next target for colonization. Unbeknownst to them, this venture would unveil a mysterious secret that would change the course of history.
 
