@@ -1,5 +1,5 @@
 ---
-title: 
+title: русский
 layout: home
 permalink: /
 ---
