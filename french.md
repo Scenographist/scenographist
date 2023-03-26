@@ -1,7 +1,7 @@
 
 ---
-title: Français
-layout: home
+title: /Français
+layout: page
 permalink: /fr
 ---
 
