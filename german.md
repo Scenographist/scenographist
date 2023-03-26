@@ -1,5 +1,5 @@
 ---
-title: Deutsch
+title: deutsch
 layout: home
 permalink: /de
 ---
