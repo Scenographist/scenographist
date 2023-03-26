@@ -1,6 +1,6 @@
 
 ---
-title: Français
+title: français
 layout: home
 permalink: /fr
 ---
