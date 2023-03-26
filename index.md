@@ -1,7 +1,7 @@
 ---
 title: english
 layout: home
-permalink: /
+permalink: /en
 ---
 
 # Genesis
