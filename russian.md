@@ -1,7 +1,7 @@
 ---
 title: русский
 layout: home
-permalink: /
+permalink: /ru
 ---
 
 # Бытие
