@@ -1,7 +1,7 @@
 ---
-title: From far-flung planets to distant galaxies, the Scenographist brings life to the stage of the cosmos.
+title: english
 layout: home
-permalink: /
+permalink: /en
 ---
 
 # Genesis
