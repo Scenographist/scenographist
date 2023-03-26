@@ -1,5 +1,5 @@
 ---
-title: 
+title: 日本
 layout: home
 permalink: /jp
 ---
