@@ -16,11 +16,7 @@ header_pages:
       
 
 #footer: 
-  '<a href="https://www.facebook.com/scenographist/"><img src="/images/social/facebook.svg"></a>
-  <a href="https://twitter.com/generatedart"><img src="/images/social/twitter.svg"></a>
-  <a href="https://www.instagram.com/generatedart/"><img src="/images/social/instagram.svg"></a>
-  <a href="https://www.youtube.com/@scenographist"><img src="/images/social/youtube.svg"></a>
-  <a href="https://www.tiktok.com/@generatedart"><img src="/images/social/tiktok.svg"></a>'
+  'insert social media'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
