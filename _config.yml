@@ -15,7 +15,7 @@ header_pages:
   - korean.md
       
 
-footer: 
+#footer: 
   '<a href="https://www.facebook.com/scenographist/"><img src="/images/social/facebook.svg"></a>
   <a href="https://twitter.com/generatedart"><img src="/images/social/twitter.svg"></a>
   <a href="https://www.instagram.com/generatedart/"><img src="/images/social/instagram.svg"></a>
